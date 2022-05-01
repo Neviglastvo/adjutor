@@ -1,0 +1,10 @@
+{
+	"cSpell.words": [
+		"eslintignore",
+		"huskyinstall",
+		"prettierignore",
+		"toastify",
+		"todos"
+	],
+	"i18n-ally.localesPaths": ["src/locales"]
+}

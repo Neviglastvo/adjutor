@@ -1,0 +1,15 @@
+{
+	"background_color": "#ffffff",
+	"display": "standalone",
+	"icons": [
+		{
+			"sizes": "64x64",
+			"src": "favicon.ico",
+			"type": "image/png"
+		}
+	],
+	"name": "adjutor",
+	"short_name": "React App",
+	"start_url": "./index.html",
+	"theme_color": "#000000"
+}
