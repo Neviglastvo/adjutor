@@ -4,6 +4,7 @@
 # configuration
 .env
 .husky
+.vscode
 
 # build
 /build

@@ -28,13 +28,8 @@ module.exports = {
 				exclude: /node_modules/,
 			},
 			{
-				test: /\.(js|jsx|ts|tsx)/,
 				enforce: "pre",
-				loader: "import-glob",
-			},
-			{
-				enforce: "pre",
-				test: /\.(js|jsx|ts|tsx)$/,
+				test: /\.(js|ts)x$/,
 				exclude: /node_modules/,
 				loader: "eslint-loader",
 				options: {
